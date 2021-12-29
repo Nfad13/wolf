@@ -1,7 +1,7 @@
 {
   "Account": {
-    "Auth Key": "xxxx",
-    "Currency": "shib",
+    "Auth Key": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI1IiwianRpIjoiNGQ1MThiNTQyZmE2ZWQ5OWMyZDZiMzY5Y2QzNjk3NDU0MjY3ODVhMmY5YWJkOGU0MjczMjEyNTJlZTZmOTBhZmI5NzdkMWNiNWQ2ZWNjZjciLCJpYXQiOjE2NDA3ODQwMzIsIm5iZiI6MTY0MDc4NDAzMiwiZXhwIjoxNjcyMzIwMDMyLCJzdWIiOiIzODE1OTciLCJzY29wZXMiOltdfQ.EpZClVx2jEahvBCdX1WwXgozfDxad9MfZTKxGrTvjKgBLKOkSvRmTHwUKcUL_EG2sXwdHbKX2aXDX35rdWE_no2FcLFc6dMGwqO9Q8b1IwjhMs_ajtKynVO4ZJFhC2erjPzAzdggmTl57Rk5l57OLPpGFYKt5V2nPmhgnx5I1rvYnDJ0PNsQs_xmuLLZ6y7pKqjSTp-CUy1jMvy83lDc53BLuHYkStDj0VgjdQ-QmJ8V0BCgi8KrevRIa87ZVbyFc_qQS5OlUpu4G-jEQZNE0AAoFSrKKqZUZOEs3Zu4vG3t3oij79-rmQFRBjxmjpJCjI8fXYnU5r1D7hq6dTxPkdvnsQwDZIvIncJWKWP77b5uHA7VsKbZOjvhz1S2tAf_59VRL8NXpZya2IZTWPA_LdPitZCJpEBdOSRMgIFwNUqVr9GInwfttZr3UuMjB2CnPYQfOdT6Pdk2Yl-bG_cP-EqGsIQGmVQorh0PvCMHMonYNra5L-GkExBH9-VdcBLNdfcpeffv4xWA-dofrAOJ2c6McBH8hFvH1kD94YEH165CASERwxy3TKkd7P7MhfGFapaU9UG-hteuJzdfsjRai9l6OHJ7hYM2zRUEIGN3WSZfXWuh2d81_ahSAFeF4XjsTkNUsXDF7SzIopAIGFBOoruhqKvjGw7vTw_0A08UPRI",
+    "Currency": "usdt",
     "Auto Proxy": "OFF"
   },
   "Target Profit": "10000",
@@ -13,7 +13,7 @@
   "Betset": [
     {
       "Name Bet Set": "00 - @riosuyanto",
-      "Base Bet": "1",
+      "Base Bet": "0.0000001",
       "Toggle HiLowSwitch": "OFF",
       "HiLowSwitch": "29",
       "Chance": "49",
